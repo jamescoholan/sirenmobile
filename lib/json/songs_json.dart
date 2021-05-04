@@ -1,25 +1,25 @@
 import 'package:flutter/material.dart';
 
 const List song_type_1 = [
-  "Music",
-  "Rock",
-  "Soul",
-  "Classic",
-  "Pop",
-  "R&B",
+  "Technology",
+  "History",
+  "Education",
+  "Classics",
+  "Education",
+  "Articles",
 ];
 const List song_type_2 = [
   "Podcasts",
-  "Made For You",
+  "Your List",
   "Charts",
   "New Releases",
   "Discover",
-  "Concerts",
+  "Top 100",
 ];
 const List songs = [
   {
     "img": "assets/images/img_3.jpg",
-    "title": "Feelin' Good",
+    "title": "Biology",
     "description": "Feel good with this positively timeless playlist!",
     "song_count": "100 songs",
     "date": "about 19 hr",
@@ -37,7 +37,7 @@ const List songs = [
   },
   {
     "img": "assets/images/img_5.jpg",
-    "title": "Peaceful Piano",
+    "title": "Astronomy",
     "description": "Relax and indulge with beautiful piano pieces",
     "song_count": "324 songs",
     "date": "about 14 hr",
@@ -55,7 +55,7 @@ const List songs = [
   },
   {
     "img": "assets/images/img_7.jpg",
-    "title": "Deep Focus",
+    "title": "History",
     "description": "Keep calm and focus with ambient and post-rock music.",
     "song_count": "195 songs",
     "date": "about 10 hr",
@@ -73,7 +73,7 @@ const List songs = [
   },
   {
     "img": "assets/images/img_4.jpg",
-    "title": "Lo-Fi Beats",
+    "title": "Ancient Civilizations",
     "description": "Beats to relax, study and focus.",
     "song_count": "599 songs",
     "date": "about 21 hr",
@@ -91,7 +91,7 @@ const List songs = [
   },
   {
     "img": "assets/images/img_2.jpg",
-    "title": "Chill Lofi Study Beats",
+    "title": "Classics",
     "description": "The perfect study beats, twenty four seven.",
     "song_count": "317 songs",
     "date": "about 11 hr",
@@ -109,7 +109,7 @@ const List songs = [
   },
   {
     "img": "assets/images/img_6.jpg",
-    "title": "Chill Hits",
+    "title": "Books",
     "description": "Kick back to the best new and recent chill tunes.",
     "song_count": "130 songs",
     "date": "about 7 hr",
@@ -127,7 +127,7 @@ const List songs = [
   },
   {
     "img": "assets/images/img_1.jpg",
-    "title": "Dark & Stormy",
+    "title": "Articles",
     "description": "Beautifully dark, dramatic tracks.",
     "song_count": "50 songs",
     "date": "about 17 hr",
@@ -145,7 +145,7 @@ const List songs = [
   },
   {
     "img": "assets/images/img_8.jpg",
-    "title": "Feel Good Piano",
+    "title": "Interviews",
     "description": "Positive piano music",
     "song_count": "69 songs",
     "date": "2 hr 14 min",
@@ -163,7 +163,7 @@ const List songs = [
   },
   {
     "img": "assets/images/img_9.jpg",
-    "title": "Sad Songs",
+    "title": "Biographies",
     "description": "Beautiful songs to break your heart...",
     "song_count": "60 songs",
     "date": "3 hr 25 min",
@@ -181,7 +181,7 @@ const List songs = [
   },
   {
     "img": "assets/images/img_10.jpg",
-    "title": "Mood Booster",
+    "title": "AI",
     "description": "Get happy with today's dose of feel-good songs",
     "song_count": "75 songs",
     "date": "3 hr 56 min",
