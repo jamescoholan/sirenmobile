@@ -26,9 +26,9 @@ const List songs = [
     "color": Color(0xFFf69129),
     "song_url": "songs/1.mp3",
     "songs": [
-      {"title": "Imagination", "duration": "1:21"},
-      {"title": "Home_", "duration": "2:17"},
-      {"title": "Do I Wanna Know?", "duration": "1:31"},
+      {"title": "Civilization", "duration": "1:21"},
+      {"title": "Ancient Egypt", "duration": "2:17"},
+      {"title": "History", "duration": "1:31"},
       {"title": "Whiskey Sour", "duration": "1:42"},
       {"title": "Decisions", "duration": "1:29"},
       {"title": "Trees", "duration": "1:51"},
@@ -44,7 +44,7 @@ const List songs = [
     "color": Color(0xFF64849c),
     "song_url": "songs/2.mp3",
     "songs": [
-      {"title": "Kaleidoscope", "duration": "2:01"},
+      {"title": "War and Peace", "duration": "21:01"},
       {"title": "Larks", "duration": "2:54"},
       {"title": "Homeland", "duration": "2:22"},
       {"title": "Une Danse", "duration": "3:03"},

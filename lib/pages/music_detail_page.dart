@@ -289,7 +289,7 @@ class _MusicDetailPageState extends State<MusicDetailPage> {
               Padding(
                 padding: const EdgeInsets.only(top: 3),
                 child: Text(
-                  "Chromecast is ready",
+                  "Siren",
                   style: TextStyle(color: primary),
                 ),
               )
