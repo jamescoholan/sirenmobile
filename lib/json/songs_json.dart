@@ -29,7 +29,7 @@ const List songs = [
       {"title": "Civilization", "duration": "1:21"},
       {"title": "Ancient Egypt", "duration": "2:17"},
       {"title": "History", "duration": "1:31"},
-      {"title": "Whiskey Sour", "duration": "1:42"},
+      {"title": "Individualism", "duration": "1:42"},
       {"title": "Decisions", "duration": "1:29"},
       {"title": "Trees", "duration": "1:51"},
       {"title": "Earth", "duration": "1:39"},
